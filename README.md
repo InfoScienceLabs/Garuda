@@ -1,8 +1,8 @@
 # Garuda
 
-Garuda is open-Source product,you can visit [garuda](http://165.22.54.104:4200/).
+[Garuda](http://165.22.54.104:4200/) is open-Source product.
 you can understand the garuda application architecture with help of below diagram:-
-![](image/)
+![](image/applicationarchitecturediagram.png)
 
 ## Getting Started
 
