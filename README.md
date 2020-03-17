@@ -7,10 +7,10 @@ you can understand the garuda application architecture with help of below diagra
 ## Getting Started
 
 There are following 4 parts of garuda:-
-* Garuda-API
-* Garuda-Processor
-* Garuda-Angular
-* Garuda-Explorer
+* Garuda-API [click to clone](https://github.com/Infosciencelabsdev/Garuda-API)
+* Garuda-Processor [click to clone](https://github.com/Infosciencelabsdev/Garuda-Processor)
+* Garuda-Angular [click to clone](https://github.com/Infosciencelabsdev/Garuda-Angular)
+* Garuda-Explorer [click to clone](https://github.com/Infosciencelabsdev/Garuda-Explorer)
 ```
 After cloning all above parts of Garuda, you have to Look on Prerequisites and Installing
 ```
