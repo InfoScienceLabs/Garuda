@@ -11,8 +11,9 @@ There are following 4 parts of garuda:-
 * Garuda-Processor
 * Garuda-Angular
 * Garuda-Explorer
+```
 After cloning all above parts of Garuda, you have to Look on Prerequisites and Installing
-
+```
 ### Prerequisites
 
 This is the tech Stack we are using to develop Garuda. Make sure you are familiar with all of these:-
