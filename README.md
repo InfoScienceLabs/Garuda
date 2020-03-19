@@ -109,7 +109,19 @@ ts-node index.ts
  
  ![](image/Screenshot1.png)  
  ![](image/Screenshot2.png)                        
- ![](image/Screenshot3.png)                             
+ ![](image/Screenshot3.png) 
+ 
+ * Screenshots for **Government panel**  
+ 
+ ![](image/Screen4.png)  
+ ![](image/screen5.png)                        
+ ![](image/screen6.png) 
+ 
+ * Screenshots for **Users panel**  
+ 
+ ![](image/screen9.png)  
+ ![](image/screen8.png)                        
+ ![](image/screen7.png) 
  
 
 ## Authors
