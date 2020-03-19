@@ -86,5 +86,5 @@ ts-node index.ts
 See also the list of [contributors](https://github.com/Infosciencelabsdev/Garuda/graphs/contributors) who participated in this project.
 
 ## License
-
+This project is licensed under the Apache License- see the [LICENSE.md](LICENSE.md) file for details
 
