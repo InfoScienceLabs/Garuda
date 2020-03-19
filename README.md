@@ -1,9 +1,27 @@
 # Garuda
+[Garuda](http://165.22.54.104:4200/) is open-Source platform where Staring from view of listed Assets to auditing of asset happens. Garuda has Secure interface to communicate with Blockchain;  
+These are the following Point Regarding Garuda:-
+* There are mainly three types of Role of user in Garuda:-  
+       1)Admin   
+       2)Government  
+       3)Users   
+         
+*  The most Important part of Garuda is building light weight Blockchain client and Customize blockchain explorers for user to navigate and view data on Blockchain with ease.
+  
+* Garuda is Marketplace of various kind of real estate assets ehich can be in categories of Residential, commercial, Agriculture etc  
 
-[Garuda](http://165.22.54.104:4200/) is open-Source product.
-you can understand the garuda application architecture with help of below diagram:-
-![](image/applicationarchitecturediagram.png)
+* For every user of Garuda provides data based insights for every asset. So a user can make an
+well informed decision.
 
+* Garuda is going to attract a large community of real estate developers, consumers, owners
+and investors.
+
+* **Garuda Future Target** :-  
+       1) Make a User to co-share, co-own and co-invest an asset with ease.  
+       2)Working for User who can list his Asset and allow others to co-share it without losing his complete ownership. At the same time co-owner can use the asset like own it.
+       
+
+       
 ## Getting Started
 
 There are following 4 parts of garuda:-
