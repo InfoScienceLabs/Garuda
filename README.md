@@ -24,7 +24,9 @@ and investors.
 For More Understanding look into below Image:-  
 ![](image/oie_hbAAt7X9NyYj.png)
        
-
+## Activities
+ Before Starting with Garuda lets looks on There Activities:-  
+ ![](image/oie_nCWN2mN2FQUR.png)
        
 ## Getting Started
 
@@ -101,7 +103,14 @@ ts-node index.ts
      ng serve --port 4100 
      
     ```
-
+## Screenshots:-
+ 
+ * Screenshots for **Admin panel**  
+ 
+ ![](image/Screenshot1.png)  
+ ![](image/Screenshot2.png)                        
+ ![](image/Screenshot3.png)                             
+ 
 
 ## Authors
 
