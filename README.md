@@ -32,7 +32,9 @@ There are following 4 parts of garuda:-
 * Garuda-API [click to clone](https://github.com/Infosciencelabsdev/Garuda-API)
 * Garuda-Processor [click to clone](https://github.com/Infosciencelabsdev/Garuda-Processor)
 * Garuda-Angular [click to clone](https://github.com/Infosciencelabsdev/Garuda-Angular)
-* Garuda-Explorer [click to clone](https://github.com/Infosciencelabsdev/Garuda-Explorer)
+* Garuda-Explorer [click to clone](https://github.com/Infosciencelabsdev/Garuda-Explorer)  
+Below Image helps you to understand Technical Structure of Project:-  
+![](image/applicationarchitecturediagram.png)
 ```
 After cloning all above parts of Garuda, you have to Look on Prerequisites and Installing
 ```
