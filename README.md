@@ -84,7 +84,8 @@ ts-node index.ts
 * **INFO SCIENCE LABS** - *Initial work* - [Info Science Lab](https://github.com/Infosciencelabsdev)
 
 See also the list of [contributors](https://github.com/Infosciencelabsdev/Garuda/graphs/contributors) who participated in this project.
-
+## Contact Us
+  Email:- info@infoscience.co
 ## License
 This project is licensed under the Apache License- see the [LICENSE.md](LICENSE.md) file for details
 
