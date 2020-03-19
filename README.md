@@ -18,7 +18,11 @@ and investors.
 
 * **Garuda Future Target** :-  
        1) Make a User to co-share, co-own and co-invest an asset with ease.  
-       2)Working for User who can list his Asset and allow others to co-share it without losing his complete ownership. At the same time co-owner can use the asset like own it.
+       2)Working for User who can list his Asset and allow others to co-share it without losing his complete ownership. At the same time co-owner can use the asset like own it.  
+       
+         
+For More Understanding look into below Image:-  
+![](image/oie_hbAAt7X9NyYj.png)
        
 
        
