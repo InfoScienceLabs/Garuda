@@ -69,7 +69,7 @@ To reproduce the Garuda Environment in your local system you can refer to this:
 * For accessing glock (db of garuda) you need to give admin role for the credentials 
   ```username: OneUser and pwd:  onetrwpassword ```
 #### Setting up garuda server:
-* Clone the beta 2.0 branch of garuda_api.
+* Clone the master branch of Garuda-API.
 * npm install
 * In the terminal execute: npm run buildstart
 
@@ -88,7 +88,7 @@ ts-node index.ts
 
 ```
 #### Setting up the Angular repositories:
-* For Garuda Application clone the garuda-angular beta 2.0 branch
+* For Garuda Application clone the garuda-angular master branch
 * Install Angular and do ``` npm install ```
 * Change the url for server in url.ts from xxx.xx.xx.xxx to localhost to give the api calls to your local server.
 * To run the project execute:
