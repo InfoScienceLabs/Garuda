@@ -1,25 +1,82 @@
-# Garuda
-[Garuda](http://165.22.54.104:4200/) is open-Source platform where Staring from view of listed Assets to auditing of asset happens. Garuda has Secure interface to communicate with Blockchain;  
-These are the following Point Regarding Garuda:-
-* There are mainly three types of Role of user in Garuda:-  
-       1)Admin   
-       2)Government  
-       3)Users   
-         
-*  The most Important part of Garuda is building light weight Blockchain client and Customize blockchain explorers for user to navigate and view data on Blockchain with ease.
-  
-* Garuda is Marketplace of various kind of real estate assets ehich can be in categories of Residential, commercial, Agriculture etc  
+# GARUDA
 
-* For every user of Garuda provides data based insights for every asset. So a user can make an
-well informed decision.
+GARUDA is an open-Source platform where viewing of listed assets to
+auditing of assets happens. GARUDA has a secure interface to
+communicate with Blockchain.​ **GARUDA has mainly three main types of
+roles for it’s users, namely;**
+**1) Administration
+**2) Government  
+**3) Users**  
+The most Important part of GARUDA is building lightweight Blockchain
+clients and customize blockchain explorers for users to navigate and view
+data on Blockchain with ease. GARUDA is a marketplace for various kinds
+of real estate assets which have these categories such as of residential,
+commercial, agriculture etc. For every user, GARUDA provides data based
+insights for every asset. So that therefore a user can make a well informed
+decision.  
+**To have a more detailed understanding of Garuda let’s look at how it
+actually works,**  
+The USERS will have access to Web/Smartphone Interface powered by
+Blockchain through which ​ **Investors** ​ can view ​ **Assets, Revenues, and
+Expenses.**   
 
-* Garuda is going to attract a large community of real estate developers, consumers, owners
-and investors.
+## USE
+With GARUDA you can track the real usage of your Assets as well as get
+real time reports. You can control your usage by QR codes Smartlock
+powered by Blockchain Technology. You can push the usage of your
+Assets to market place in order to generate more profitable revenue.
 
-* **Garuda Future Target** :-  
-       1) Make a User to co-share, co-own and co-invest an asset with ease.  
-       2)Working for User who can list his Asset and allow others to co-share it without losing his complete ownership. At the same time co-owner can use the asset like own it.  
-       
+
+## RENT
+
+Rent out your fractional ownership or lifetime usage with GARUDA. You
+can use it’s features such as marketplace to get or find the best offers
+which also enables users to find the best rents. There will be an automated
+check in and check out using Smartlock QR codes for the best of your
+safety and convenience. You will get access to important verticals such as
+reports, revenues, return of investment etc. to give you the best experience
+from the renting services of GARUDA.
+## INVEST
+Users can invest in fractional or lifetime usage ownership using GARUDA.
+You can check ownerships and assessment while investing and get access
+to property or asset reports, estimated revenues and dividends. And the
+most important part here is you can check your investment reports.
+## TRADE
+Trade assets will be based on cryptocurrencies. You can easily transfer
+your assets or real estates. With trade, push your assets to the
+marketplace to receive best deals as well as check marketplaces to find
+best deals with GARUDA. In trading as well you will have access to trade
+and revenues and revenues. With this we also give users the service of
+requesting transfer of assets.
+## MANAGE/OPERATE
+You can manage your real estates or assets with much ease. Users can
+easily record expenses and revenues. They can organise audit meetings
+and publish in order to share the audit with the community.
+
+
+## ACTIVITIES OF GARUDA
+
+→ Startups
+→ Investors
+→ Families
+will have access to
+
+1. Use
+2. Rent
+3. Trade
+4. Invest
+Fractional Ownership and Lifetime Usage Rights.
+→ Farmers
+→ Professionals
+→ Individuals
+will have access to
+1. Manage/Operate
+Real Estates, Assets and Entities.
+
+
+
+
+
          
 For More Understanding look into below Image:-  
 ![](image/oie_hbAAt7X9NyYj.png)
