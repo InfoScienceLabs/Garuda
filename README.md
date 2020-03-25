@@ -2,23 +2,32 @@
 
 GARUDA is an open-Source platform where viewing of listed assets to
 auditing of assets happens. GARUDA has a secure interface to
-communicate with Blockchain.​ **GARUDA has mainly three main types of
-roles for it’s users, namely;**
-**1) Administration
-**2) Government  
+communicate with Blockchain.  
+​ **GARUDA has mainly three main types of
+roles for it’s users, namely;**  
+
+**1) Administration**  
+**2) Government**   
 **3) Users**  
+
 The most Important part of GARUDA is building lightweight Blockchain
 clients and customize blockchain explorers for users to navigate and view
 data on Blockchain with ease. GARUDA is a marketplace for various kinds
 of real estate assets which have these categories such as of residential,
 commercial, agriculture etc. For every user, GARUDA provides data based
 insights for every asset. So that therefore a user can make a well informed
-decision.  
+decision. 
+  
+    
 **To have a more detailed understanding of Garuda let’s look at how it
 actually works,**  
+  
+  
 The USERS will have access to Web/Smartphone Interface powered by
 Blockchain through which ​ **Investors** ​ can view ​ **Assets, Revenues, and
-Expenses.**   
+Expenses.**  
+  
+    
 
 ## USE
 With GARUDA you can track the real usage of your Assets as well as get
@@ -51,8 +60,9 @@ requesting transfer of assets.
 ## MANAGE/OPERATE
 You can manage your real estates or assets with much ease. Users can
 easily record expenses and revenues. They can organise audit meetings
-and publish in order to share the audit with the community.
-
+and publish in order to share the audit with the community.  
+For More Understanding look into below Image:-  
+![](image/oie_hbAAt7X9NyYj.png)
 
 ## ACTIVITIES OF GARUDA
 
@@ -72,17 +82,7 @@ Fractional Ownership and Lifetime Usage Rights.
 will have access to
 1. Manage/Operate
 Real Estates, Assets and Entities.
-
-
-
-
-
-         
-For More Understanding look into below Image:-  
-![](image/oie_hbAAt7X9NyYj.png)
-       
-## Activities
- Before Starting with Garuda lets looks on There Activities:-  
+  
  ![](image/oie_nCWN2mN2FQUR.png)
        
 ## Getting Started
