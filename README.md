@@ -16,14 +16,14 @@ data on Blockchain with ease. GARUDA is a marketplace for various kinds
 of real estate assets which have these categories such as of residential,
 commercial, agriculture etc. For every user, GARUDA provides data based
 insights for every asset. So that therefore a user can make a well informed
-decision. 
+decision.  
   
-    
+  
+  
+  
 **To have a more detailed understanding of Garuda let’s look at how it
 actually works,**  
-  
-  
-The USERS will have access to Web/Smartphone Interface powered by
+   The USERS will have access to Web/Smartphone Interface powered by
 Blockchain through which ​ **Investors** ​ can view ​ **Assets, Revenues, and
 Expenses.**  
   
