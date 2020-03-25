@@ -1,6 +1,6 @@
 # GARUDA
 
-GARUDA is an open-Source platform where viewing of listed assets to
+[GARUDA](http://165.22.54.104:4200/) is an open-Source platform where viewing of listed assets to
 auditing of assets happens. GARUDA has a secure interface to
 communicate with Blockchain.  
 ​ **GARUDA has mainly three main types of
