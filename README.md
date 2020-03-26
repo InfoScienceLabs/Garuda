@@ -81,7 +81,7 @@ Fractional Ownership and Lifetime Usage Rights.<br/>
 → Professionals <br/>
 → Individuals <br/>
 will have access to <br/>
-
+<br/>
 1. Manage/Operate <br/>
 Real Estates, Assets and Entities.<br/>
   
