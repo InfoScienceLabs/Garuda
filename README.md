@@ -76,10 +76,12 @@ will have access to <br/>
 3. Trade <br/>
 4. Invest <br/>
 Fractional Ownership and Lifetime Usage Rights.<br/>
+<br/>
 → Farmers <br/>
 → Professionals <br/>
 → Individuals <br/>
 will have access to <br/>
+
 1. Manage/Operate <br/>
 Real Estates, Assets and Entities.<br/>
   
