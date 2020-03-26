@@ -69,21 +69,21 @@ For More Understanding look into below Image:-
 → Startups <br/>
 → Investors <br/>
 → Families <br/>
-&nbsp;&nbsp;will have access to <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;will have access to <br/>
 
-&nbsp;&nbsp;&nbsp;1. Use <br/>
-&nbsp;&nbsp;&nbsp;2. Rent <br/>
-&nbsp;&nbsp;&nbsp;3. Trade <br/>
-&nbsp;&nbsp;&nbsp;4. Invest <br/>
-Fractional Ownership and Lifetime Usage Rights.<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;1. Use <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;2. Rent <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;3. Trade <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;4. Invest <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Fractional Ownership and Lifetime Usage Rights.<br/>
 <br/>
 → Farmers <br/>
 → Professionals <br/>
 → Individuals <br/>
-&nbsp;&nbsp;&nbsp;will have access to <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;will have access to <br/>
 <br/>
-&nbsp;&nbsp;&nbsp;1. Manage/Operate <br/>
-&nbsp;&nbsp;&nbsp; Real Estates, Assets and Entities.<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1. Manage/Operate <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Real Estates, Assets and Entities.<br/>
   
  ![](image/oie_nCWN2mN2FQUR.png)
        
