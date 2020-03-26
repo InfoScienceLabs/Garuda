@@ -66,22 +66,22 @@ For More Understanding look into below Image:-
 
 ## ACTIVITIES OF GARUDA
 
-→ Startups
-→ Investors
-→ Families
-will have access to
+→ Startups <br/>
+→ Investors <br/>
+→ Families <br/>
+will have access to <br/>
 
-1. Use
-2. Rent
-3. Trade
-4. Invest
-Fractional Ownership and Lifetime Usage Rights.
-→ Farmers
-→ Professionals
-→ Individuals
-will have access to
-1. Manage/Operate
-Real Estates, Assets and Entities.
+1. Use <br/>
+2. Rent <br/>
+3. Trade <br/>
+4. Invest <br/>
+Fractional Ownership and Lifetime Usage Rights.<br/>
+→ Farmers <br/>
+→ Professionals <br/>
+→ Individuals <br/>
+will have access to <br/>
+1. Manage/Operate <br/>
+Real Estates, Assets and Entities.<br/>
   
  ![](image/oie_nCWN2mN2FQUR.png)
        
